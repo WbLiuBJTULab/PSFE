@@ -47,7 +47,6 @@ ndsd
 
 ## Setup
 <pre>
-cd ndsd
 python setup.py develop
 </pre>
 ## Training and Validation
